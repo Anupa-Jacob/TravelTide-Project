@@ -1,4 +1,6 @@
-                                  **TRAVELTIDE CUSTOMER REWARDS PROGRAM FOR CUSTOMER RETENTION**
+# **TRAVELTIDE CUSTOMER REWARDS PROGRAM FOR CUSTOMER RETENTION**
+
+
 **Overview**
 This repository contains the code, methodology, and summary documentation for TravelTide's customer segmentation initiative. The main goal is to personalize travel perks by identifying actionable customer segments, increasing engagement, retention, and long-term value.
 
