@@ -34,5 +34,7 @@ Python (Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn), SQL, Tableau, Google 
 * Launch bold, targeted offers for high-volume, low-engagement segments.
 * Continuously measure and refine tactics via KPIs (CLV, conversion, rebooking rates).
 
+Name: Anupa Jacob Parady
+
 
 
