@@ -105,7 +105,7 @@ TravelTide-Segmentation/
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/traveltide-segmentation.git
+git clone https://github.com/Anupa-Jacob/TravelTide-Project/tree/main
 cd traveltide-segmentation
 
 # Create virtual environment
@@ -134,7 +134,7 @@ plotly==5.18.0
 
 ```python
 # Load and execute the Jupyter notebook
-jupyter notebook notebooks/traveltide_segmentation.ipynb
+[jupyter notebook notebooks/traveltide_segmentation.ipynb](https://drive.google.com/file/d/1hjh4dpXmKu2wba0evB6eOynFMNHC2io0/view?usp=sharing)
 ```
 
 ### Viewing Tableau Dashboards
