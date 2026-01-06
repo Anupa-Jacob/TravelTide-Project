@@ -132,12 +132,13 @@ plotly==5.18.0
 
 ```python
 # Load and execute the Jupyter notebook
-(https://drive.google.com/file/d/1hjh4dpXmKu2wba0evB6eOynFMNHC2io0/view?usp=sharing)
+https://drive.google.com/file/d/1hjh4dpXmKu2wba0evB6eOynFMNHC2io0/view?usp=sharing
 ```
 
 ### Viewing Tableau Dashboards
 
-Open `https://public.tableau.com/app/profile/anupa.jacob.parady/viz/TravelTideProject_17568701540520/SegmentSizeTotalRevenue` in Tableau Desktop
+Open `https://public.tableau.com/app/profile/anupa.jacob.parady/viz/TravelTideProject_17568701540520/SegmentSizeTotalRevenue` 
+in Tableau Desktop
 
 
 
