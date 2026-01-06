@@ -142,15 +142,7 @@ jupyter notebook notebooks/traveltide_segmentation.ipynb
 Open `https://public.tableau.com/app/profile/anupa.jacob.parady/viz/TravelTideProject_17568701540520/SegmentSizeTotalRevenue` in Tableau Desktop
 
 
-### Exporting Results
 
-```python
-# Export user assignments
-user_features.to_csv('results/user_segments.csv', index=False)
-
-# Export geo data for mapping
-geo_sessions.to_csv('results/geo_sessions.csv', index=False)
-```
 
 ## Business Impact
 
