@@ -128,8 +128,6 @@ psycopg2==2.9.9
 plotly==5.18.0
 ```
 
-## Usage
-
 ### Running the Analysis
 
 ```python
@@ -192,7 +190,7 @@ Open `https://public.tableau.com/app/profile/anupa.jacob.parady/viz/TravelTidePr
 
 ## Contributors
 
-- **[Anupa]
+- [Anupa]
 - **Business Analyst**: TravelTide Marketing Team
 - **Stakeholders**: Product, Marketing, Executive Leadership
 
