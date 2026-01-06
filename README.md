@@ -132,7 +132,7 @@ plotly==5.18.0
 
 ```python
 # Load and execute the Jupyter notebook
-[jupyter notebook notebooks/traveltide_segmentation.ipynb](https://drive.google.com/file/d/1hjh4dpXmKu2wba0evB6eOynFMNHC2io0/view?usp=sharing)
+(https://drive.google.com/file/d/1hjh4dpXmKu2wba0evB6eOynFMNHC2io0/view?usp=sharing)
 ```
 
 ### Viewing Tableau Dashboards
